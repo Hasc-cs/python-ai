@@ -1,0 +1,1 @@
+This AI Prompt Kit helps small businesses save time, create engaging marketing content, improve customer service, and discover affordable AI tools to grow their business within their monthly budget.
