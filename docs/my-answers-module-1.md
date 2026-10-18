@@ -1,4 +1,4 @@
-
+## 1.1 to 1.4
 #q1:b
 q2:c
 q3:b
@@ -26,3 +26,9 @@ Q3: c
 Q4: b
 Q5: c
 Q6: 201
+## 1.5 to 1.8
+1.5: Q1 c Q2 b, Q3 c, Q4 b, Q5 b, Q6 2.0
+
+1.6: Q1 b, Q2 b, Q3 b, Q4 b, Q5 b, Q6 1234.57 PKR, 1,500,000 tokens
+1.7: Q1 b, Q2 c, Q3 b, Q4 a, Q5 a, Q6 Costs more
+1.8: Q1 b, Q2 b, Q3 b, Q4 a, Q5 b, Q6 2 messages
