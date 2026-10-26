@@ -176,5 +176,3 @@ If a test fails, fix the code, rerun the test, and update the result.
 ## Conclusion
 
 Sweet Crumbs AI Content Studio demonstrates how Python can combine fixed business facts with AI-generated content. Creative generation handles marketing tasks, the precise model handles customer questions, and Python handles price lookups and session statistics without unnecessary AI calls.
-
-Feature tests and AI quality tests should be completed by running the program. Actual results must be recorded rather than assumed.
